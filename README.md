@@ -1,4 +1,4 @@
-# Getting Started with Restaurant App [React]
+# Getting Started with Restaurant App [React.js]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
